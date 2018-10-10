@@ -23,70 +23,7 @@
         "action": {
           "trigger": "navigate"
         }
-      },
-      "style": {
-        "background": "#ffffff",
-        "border": "none"
-      },
-      "sections": [
-        {
-          "items": [
-            {
-              "type": "vertical",
-              "style": {
-                "padding": "30",
-                "spacing": "20",
-                "align": "center"
-              },
-              "components": []
-            },
-            {
-              "type": "label",
-              "style": {
-                "align": "right",
-                "padding": "10",
-                "color": "#000000",
-                "font": "HelveticaNeue",
-                "size": "12"
-              },
-              "text": "Check out Live DEMO",
-              "href": {
-                "url": "https://jasonette.github.io/Jasonpedia/demo.json"
-              }
-            },
-            {
-              "type": "label",
-              "style": {
-                "align": "right",
-                "padding": "10",
-                "color": "#000000",
-                "font": "HelveticaNeue",
-                "size": "12"
-              },
-              "text": "Watch the tutorial video",
-              "href": {
-                "url": "https://www.youtube.com/watch?v=S7yGejKIH6Q",
-                "view": "Web"
-              }
-            },
-            {
-              "type": "label",
-              "style": {
-                "align": "right",
-                "padding": "10",
-                "color": "#000000",
-                "font": "HelveticaNeue",
-                "size": "12"
-              },
-              "text": "View documentation",
-              "href": {
-                "url": "https://jasonette.github.io/documentation",
-                "view": "Web"
-              }
-            }
-          ]
-        }
-      ]
+      }
     }
   }
 }
