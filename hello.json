@@ -19,7 +19,7 @@
       },
       "background": {
         "type": "html",
-        "url": "aog.ambit.mx",
+        "url": "http://aog.ambit.mx",
         "action": {
           "trigger": "navigate"
         }
