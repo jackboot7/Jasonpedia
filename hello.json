@@ -17,6 +17,13 @@
           "background": "#ffffff"
         }
       },
+      "background": {
+        "type": "html",
+        "url": "aog.ambit.mx",
+        "action": {
+          "trigger": "navigate"
+        }
+      },
       "style": {
         "background": "#ffffff",
         "border": "none"
