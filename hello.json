@@ -21,7 +21,7 @@
         "type": "html",
         "url": "http://aog.ambit.mx",
         "action": {
-          "trigger": "navigate"
+          "type": "$default"
         }
       }
     }
